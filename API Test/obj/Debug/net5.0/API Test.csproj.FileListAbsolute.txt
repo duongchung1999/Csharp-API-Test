@@ -1,0 +1,61 @@
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\appsettings.Development.json
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\appsettings.json
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\API Test.exe
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\API Test.deps.json
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\API Test.runtimeconfig.json
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\API Test.runtimeconfig.dev.json
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\API Test.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\ref\API Test.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\API Test.pdb
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.csproj.AssemblyReference.cache
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.AssemblyInfoInputs.cache
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.AssemblyInfo.cs
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.csproj.CoreCompileInputs.cache
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\staticwebassets\API Test.StaticWebAssets.Manifest.cache
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\staticwebassets\API Test.StaticWebAssets.xml
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\scopedcss\bundle\API Test.styles.css
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.RazorTargetAssemblyInfo.cache
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.csproj.CopyComplete
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\ref\API Test.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.pdb
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\obj\Debug\net5.0\API Test.genruntimeconfig.cache
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Humanizer.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\WEB 2023.05.13\API Csharp Test\API Test\API Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
